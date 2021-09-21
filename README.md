@@ -13,4 +13,4 @@
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 
-![](https://imgur.com/JEsDnSH)
+<iframe class="imgur-embed" width="100%" height="1518" frameborder="0" src="https://i.imgur.com/JEsDnSH.gifv#embed"></iframe>
