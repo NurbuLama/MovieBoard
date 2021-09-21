@@ -13,5 +13,6 @@
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="" width="40" height="40" />
+[Imgur](https://imgur.com/LxLMmLN)
 
