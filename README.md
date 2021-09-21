@@ -1,5 +1,4 @@
 # CodePath
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
 
 ## Flix Part 2
 
@@ -14,5 +13,5 @@
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 
-<img src="https://imgur.com/DTa3wav" width=250><br>
+
 
